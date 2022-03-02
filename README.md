@@ -14,6 +14,7 @@
 - [S-I-D](#s-i-d)
 - [W-I-C](#w-i-c)
 - [P-E-P-8](#p-e-p-8)
+- [P-O-D](#p-o-d)
 - [Avoid contractions](#avoid-contractions)
 - [Avoid context duplication](#avoid-context-duplication)
 - [Reflect the expected result](#reflect-the-expected-result)
