@@ -8,6 +8,7 @@
 
 - [English language](#english-language)
 -[Japanese language](#japanese-language)
+-[French language](#french-language)
 - [Naming convention](#naming-convention)
 - [S-I-D](#s-i-d)
 - [Avoid contractions](#avoid-contractions)
