@@ -12,6 +12,7 @@
 -[German language](#german-language)
 - [Naming convention](#naming-convention)
 - [S-I-D](#s-i-d)
+- [W-I-C](#w-i-c)
 - [Avoid contractions](#avoid-contractions)
 - [Avoid context duplication](#avoid-context-duplication)
 - [Reflect the expected result](#reflect-the-expected-result)
