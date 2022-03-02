@@ -9,6 +9,7 @@
 - [English language](#english-language)
 -[Russian language](#russian-language)
 -[Ukranian language](#ukranian-language)
+-[German language](#german-language)
 - [Naming convention](#naming-convention)
 - [S-I-D](#s-i-d)
 - [Avoid contractions](#avoid-contractions)
